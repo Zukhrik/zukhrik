@@ -3,6 +3,6 @@
 
 <a href=#><img src="contributions.svg"></a>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zukhrik&theme=github_dark)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zukhrik&theme=github_dark)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=zukhrik&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=zukhrik&theme=github-compact) -->
